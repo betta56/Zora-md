@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://res.cloudinary.com/df2rnoijw/image/upload/v1750938211/ikz1ccze52jtu9gxlbuj.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://res.cloudinary.com/df2rnoijw/image/upload/v1752380745/ry4u5vanbiy8kujqjg3x.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
